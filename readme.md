@@ -1,2 +1,2 @@
-Test from my MAC
-this is a new line from IntelliJ
+Test from my MAC<br>
+This is a new line from IntelliJ
